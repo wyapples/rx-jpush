@@ -1,1 +1,4 @@
-
+<prescriptions xmlns="http://greenify.github.io/schemas/prescription/v3">
+  <prescription type="service" sender="other-app" class="cn.jpush.android.service.PushService"/>
+  <prescription type="service" sender="other-app" class="cn.jpush.android.ui.PushActivity"/>
+</prescriptions>
